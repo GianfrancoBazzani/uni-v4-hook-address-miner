@@ -1,0 +1,10 @@
+[package]
+name = "uni-v4-hook-address-miner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+keccak-hash = "0.11.0"
+ethereum-types = "0.15.1"
+rand = "0.8.5"
+clap = { version = "4.5.21", features = ["derive"] }
