@@ -1,0 +1,8 @@
+.asciinoise {
+    font-family: sans-serif;
+    position:	fixed;
+	width:		100vw;
+	height:		100vh;
+	background:	#131212;
+    z-index: -1;
+}
