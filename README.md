@@ -1,6 +1,6 @@
 # uni-v4-hook-address-miner
 
-Multithread Vanity Address Miner for Uniswap V4 Hooks
+Multithread Vanity Address Miner for Uniswap v4 Hooks
 
 ## Online version
 

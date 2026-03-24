@@ -5,7 +5,7 @@ export function Header() {
     <header className=" fixed w-full z-50 bg-opacity-80 backdrop-blur-sm bg-black text-primary-foreground border-b shadow border-pink-500">
       <div className=" px-20 py-3 flex justify-between items-center">
         <div className="flex items-center space-x-2">
-          <h1 className="text-xl font-bold text-pink-200">V4</h1>
+          <h1 className="text-xl font-bold text-pink-200">v4</h1>
           <span className="text-xl" role="img" aria-label="Pick axe">
             🪝
           </span>
