@@ -1,6 +1,6 @@
-# V4 Hook Address Miner UI Documentation
+# v4 Hook Address Miner UI Documentation
 
-Welcome to the documentation for the V4 Hook Address Miner UI. This tool is designed to provide a seamless user interface for mining addresses using the V4 Hook protocol.
+Welcome to the documentation for the v4 Hook Address Miner UI. This tool is designed to provide a seamless user interface for mining addresses using the v4 Hook protocol.
 
 ## Requirements
 

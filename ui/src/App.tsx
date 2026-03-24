@@ -324,10 +324,10 @@ function App() {
       <div className=" text-pink-200 flex flex-col items-center lg:px-20 md:px-10 sm:px-5  pt-12 mt-12 mb-10">
         <Card className=" flex flex-col items-center w-full px-8 bg-black bg-opacity-80 border-pink-500">
           <h1 className=" text-4xl mt-8 font-semibold">
-            Uniswap V4 Hook Address Miner
+            Uniswap v4 Hook Address Miner
           </h1>
           <h2 className="text-lg mt-4 text-center">
-            Mine vanity Uniswap V4 hook addresses with our fast, easy-to-use,
+            Mine vanity Uniswap v4 hook addresses with our fast, easy-to-use,
             multithreaded online tool
           </h2>
           <Form {...minerForm}>
