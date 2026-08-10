@@ -4,7 +4,7 @@ Welcome to the documentation for the v4 Hook Address Miner UI. This tool is desi
 
 ## Requirements
 
-- **Node.js**: Ensure you have Node.js version `20.18.0` installed. You can manage your Node.js versions using [nvm](https://github.com/nvm-sh/nvm).
+- **Node.js**: Ensure you have Node.js version `24.19.0` installed. You can manage your Node.js versions using [nvm](https://github.com/nvm-sh/nvm).
 - **Yarn**: This project uses Yarn as the package manager. If you haven't installed Yarn yet, you can do so by running:
   ```bash
   npm install --global yarn
